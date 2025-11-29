@@ -71,3 +71,8 @@ export default defineConfig([
   },
 ])
 ```
+
+
+## Screenshot
+
+![Main page](src/img/image.png)
